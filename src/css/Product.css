@@ -1,0 +1,36 @@
+
+.prodcutImageContainer{
+    flex: 1;
+    
+
+}
+.productTextContainer{
+    flex: 1;
+    margin: 20px;
+
+}
+.image{
+    height: 250px;
+    width: 300px;
+    
+}
+.description{
+    font-weight: normal;
+    font-size: 16px;
+}
+.price{
+    font-size: 20px;
+}
+.btn{
+    color: white;
+    background-color: chocolate;
+    align-items: center ;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+    padding: 10px;
+    border-radius: 30px;
+    border: 0.5px solid black;
+
+}

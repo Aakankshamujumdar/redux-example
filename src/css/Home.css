@@ -1,0 +1,25 @@
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    background-color:rgb(116, 52, 52);
+    color: white;
+    padding: 0 20px;
+}
+box-icon{
+    color: antiquewhite;
+
+}
+.prodcutContainer{
+    display: flex;
+    height: 500px;
+    width: 300px;
+    border: 1px solid black;
+    margin: 20px;
+
+
+}       
+.maincontainer{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}                                                                                                                            
